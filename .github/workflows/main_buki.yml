@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'BUKI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9FE25D20BBCF49018AF631C9276A805C }}
